@@ -19,5 +19,8 @@ It is built using HTML, CSS, and JavaScript.
 
 ## Installation
 
-1.Fell free to Clone the repo.
+1. Feel free to clone the repository:
+   ```bash
+   git clone https://github.com/VaKo2179/Portfolio_Website_2179.git
+
 
